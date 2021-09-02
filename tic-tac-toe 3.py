@@ -1,5 +1,5 @@
 #let's play tic-tac-toe game
-#???????
+#이거 괜찮은거 맞나 싶고..
 
 board = [[' ' for x in range(3)] for y in range(3)]
 x = 0
